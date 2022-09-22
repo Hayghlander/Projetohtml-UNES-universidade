@@ -7,20 +7,19 @@ UNES, projeto de uma universidade fictícia, criado utilizando apenas HTML5, par
 
 # Home
      
-![HOME](https://user-images.githubusercontent.com/113555075/191643780-22c87b08-57dc-4fad-b652-8fc909fbdccf.png)
+![home](https://user-images.githubusercontent.com/113555075/191815886-5b6f9b2d-251a-45f3-b7fb-f84ad4711767.png)
 
 # Quem somos
 
-![quem somos](https://user-images.githubusercontent.com/113555075/191645413-9834b6e0-262a-43c0-801a-5ff42a5339b6.png)
+![quem-somos](https://user-images.githubusercontent.com/113555075/191816298-1904ab39-33a4-432b-887e-3b76effa5fad.png)
 
 # Contato
 
-![contato](https://user-images.githubusercontent.com/113555075/191646496-7b2afb1d-768c-46e7-b756-5fecde2ae065.png)
-
+![contato](https://user-images.githubusercontent.com/113555075/191817911-7d9ce965-c812-440f-b98c-ec76e554c2c0.png)
 
 # Login
 
-![login](https://user-images.githubusercontent.com/113555075/191646583-d534793b-7a2e-4514-8da5-3422bdc50f2f.png)
+![login](https://user-images.githubusercontent.com/113555075/191818109-d115fd9f-beaa-4d9f-9d23-37b9863c9a0f.png)
 
 
 # Tecnologias utilizadas
