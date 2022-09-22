@@ -7,7 +7,7 @@ UNES, projeto de uma universidade fictícia, criado utilizando apenas HTML5, par
 
 # Home
      
-![HOME](https://user-images.githubusercontent.com/113555075/191643780-22c87b08-57dc-4fad-b652-8fc909fbdccf.png)">
+![HOME](https://user-images.githubusercontent.com/113555075/191643780-22c87b08-57dc-4fad-b652-8fc909fbdccf.png)
 
 # Quem somos
 
@@ -15,11 +15,12 @@ UNES, projeto de uma universidade fictícia, criado utilizando apenas HTML5, par
 
 # Contato
 
-https://github.com/Hayghlander/Projetohtml-UNES-universidade/issues/1#issuecomment-1254444373
+![contato](https://user-images.githubusercontent.com/113555075/191646496-7b2afb1d-768c-46e7-b756-5fecde2ae065.png)
+
 
 # Login
 
-https://github.com/Hayghlander/Projetohtml-UNES-universidade/issues/1#issuecomment-1254444969
+![login](https://user-images.githubusercontent.com/113555075/191646583-d534793b-7a2e-4514-8da5-3422bdc50f2f.png)
 
 
 # Tecnologias utilizadas
